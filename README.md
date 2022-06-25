@@ -1,8 +1,8 @@
 # Hello, my name is Ali 👋
 
-- I'm based in the United Kingdom
-- I'm always working on improving my skills
-- One of my goals is to start contributing to open source projects
+- I'm based in the London, England.
+- I'm always working on improving my skills.
+- One of my goals is to start contributing to open source projects.
 
 ## 🌱 I'm currently learning
 
