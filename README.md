@@ -1,4 +1,4 @@
-# Hi, my name is Ali 👋
+# Hello, my name is Ali 👋
 
 - I'm based in London, England
 - I'm always working on improving my skills
