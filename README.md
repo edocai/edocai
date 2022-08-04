@@ -1,6 +1,6 @@
 # Hello, my name is Ali 👋
 
-- I'm based in London, England
+- I'm based in London, England, United Kingdom
 - I'm always working on improving my skills
 - One of my goals is to start contributing to open source projects
 
