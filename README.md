@@ -2,7 +2,7 @@
 
 - I'm based in London, England, United Kingdom
 - I'm always working on improving my skills
-- My goal this year is to contribute to open source projects more
+- My goal this year is to contribute to more open source projects
 
 ## 🌱 I'm currently learning
 
