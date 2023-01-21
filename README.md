@@ -6,9 +6,7 @@
 - I'm always working on improving my skills
 - My goal this year is to contribute to more open source projects
 
-<a href="https://github.com/edocai/edocai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edocai&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edocai)](https://github.com/edocai/github-readme-stats)
 
 ## 🌱 I'm currently learning
 
