@@ -8,7 +8,7 @@
 
 ## 🌱 I'm currently learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-589636?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 💼 Tech stack
 
